@@ -1,5 +1,4 @@
 This website is not ready yet my sincere apologies.
 
-*i said its not ready*
+***it well be up and running in the next 3-5 business days I hope.***
 
-###IT'S NOT READY###
