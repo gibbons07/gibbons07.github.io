@@ -8,13 +8,13 @@ This website is not ready yet my sincere apologies.
 
 - [x] github account
       
-- [x]repository x 2
+- [x] repository x 2
 
 - [x] an image
 
 - [x]  link to hello world
 
-- [ ]  add to index.html of hello world 
+- [x]  add to index.html of hello world 
 
 
 
