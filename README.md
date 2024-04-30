@@ -1,6 +1,20 @@
+# Grace Gibbons
+
+## checklist
+
 This website is not ready yet my sincere apologies.
 
 ***it will be up and running in the next 3-5 business days I hope.***
+
+- [x] github account
+      
+- [x]repository x 2
+
+- [x] an image
+
+- [x]  link to hello world
+
+- [ ]  add to index.html of hello world 
 
 
 
