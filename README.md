@@ -2,10 +2,6 @@
 
 ## checklist
 
-This website is not ready yet my sincere apologies.
-
-***it will be up and running in the next 3-5 business days I hope.***
-
 - [x] github account
       
 - [x] repository x 2
@@ -14,7 +10,13 @@ This website is not ready yet my sincere apologies.
 
 - [x]  link to hello world
 
-- [x]  add to index.html of hello world 
+- [x]  add to index.html of hello world
+
+
+
+This website is not ready yet my sincere apologies.
+
+***it will be up and running in the next 3-5 business days I hope.***
 
 
 
