@@ -2,15 +2,18 @@
 
 ## checklist
 
-- [x] github account
+- [x] make github login
+
+- [x] add a header to my page
+
+- [x] add an image banner
       
-- [x] repository x 2
+- [x] make 2x repository, one for home page, one for hello world
 
-- [x] an image
+- [x] add aa link to hello world web page
 
-- [x]  link to hello world
+- [ ] add a color to hello world web page
 
-- [x]  add to index.html of hello world
 
 
 
