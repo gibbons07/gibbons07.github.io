@@ -1,4 +1,4 @@
-# Grace Gibbons
+![image](https://github.com/gibbons07/gibbons07.github.io/assets/168382875/f57f4fd9-477b-4ca0-be9d-565a36b39ef4)# Grace Gibbons
 
 ## checklist
 
@@ -22,6 +22,8 @@ This website is not ready yet my sincere apologies.
 
 [hello world](https://gibbons07.github.io/hellloworld)
 
-![](https://d1jyxxz9imt9yb.cloudfront.net/animal/429/meta_image/regular/hippo_3.jpg) 
+![]![Uploading image.png…]()
+
+
 
 
