@@ -1,4 +1,4 @@
-![image](https://github.com/gibbons07/gibbons07.github.io/assets/168382875/f57f4fd9-477b-4ca0-be9d-565a36b39ef4)# Grace Gibbons
+# Grace Gibbons
 
 ## checklist
 
