@@ -12,7 +12,9 @@
 
 - [x] add aa link to hello world web page
 
-- [ ] add a color to hello world web page
+- [x] add a color to hello world web page
+
+- [x] centre the text
 
 
 
