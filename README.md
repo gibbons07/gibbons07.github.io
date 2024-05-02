@@ -15,9 +15,9 @@
 - [x] add a color to hello world web page
 
 - [x] centre the text
-- [ ] 
+      
 - [x] add an image/s to your hello world page
-- [ ] 
+      
 - [x] add a hyperlink back to your main webpage on your hello world webpage
 
 
