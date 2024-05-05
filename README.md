@@ -20,7 +20,7 @@
       
 - [x] add a hyperlink back to your main webpage on your hello world webpage
 
-- []Add a css stylesheet to your html files.
+- [ ]Add a css stylesheet to your html files.
 
 
 
