@@ -13,7 +13,10 @@
 p {
 font-size: 15px;
 color:AliceBlue; 
-text-align: left;
+text-align: center;
+border: none;
+border-radius: 7px;
+margin: 7px 5px;
 font-family: Georgia, serif;
 }
 
