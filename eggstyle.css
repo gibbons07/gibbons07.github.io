@@ -1,4 +1,6 @@
-
+*{
+  text-align: center;
+}
 ​h1 {
   width:100%
   color:LightGray;
@@ -13,7 +15,6 @@ font-size: 15px;
 color:AliceBlue; 
 text-align: center;
 font-family: Georgia, serif;
-margin-left: 200px;
 
 }
 
